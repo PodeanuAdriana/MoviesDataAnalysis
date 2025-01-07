@@ -8,3 +8,4 @@ For this objective, I used three CSV files containing a significant volume of ra
 The technologies and tools used for data processing and analysis were Python with the Pandas, NumPy, Matplotlib, and Seaborn libraries for graphical visualization of the results. Additionally, I employed data processing and mining techniques to identify patterns and extract relevant information.
 
 Through this project, I was able to develop practical skills in data processing, problem-solving, collaboration, and the use of advanced technologies.
+ Link Datasets: https://grouplens.org/datasets/movielens/32m/
